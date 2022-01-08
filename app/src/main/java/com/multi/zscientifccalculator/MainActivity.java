@@ -166,5 +166,6 @@ public class MainActivity extends AppCompatActivity {
     }
     public void xSquaredBTNPush(View view){
         updateText("^(2)");
+	//Sample checking local for github
     }
 }
